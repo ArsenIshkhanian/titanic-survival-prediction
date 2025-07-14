@@ -1,4 +1,3 @@
-# titanic-survival-prediction
 # Titanic Survival Prediction using Logistic Regression
 
 This project predicts passenger survival on the Titanic using Logistic Regression with different penalty options (L1, L2, ElasticNet, None). Hyperparameter tuning is performed using GridSearchCV. Data preprocessing includes feature scaling, label encoding, and the modeling pipeline.
@@ -13,7 +12,7 @@ The goal is to classify whether a passenger survived the Titanic disaster based 
 - Pandas
 - NumPy
 - Scikit-learn
-- Seaborn (for data visualization)
+- Seaborn
 
 ## 📈 Models and Tools Used
 
